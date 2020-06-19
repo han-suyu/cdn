@@ -5,6 +5,7 @@
 
 
 
+
 ul,li {
 	list-style: none;
 }
@@ -57,7 +58,6 @@ a:hover {
 }
 
 #logo {
-	background: url(../img/logo.gif?20130730) no-repeat;
 	line-height: 50px;
 	cursor: pointer;
 	width: 250px;
