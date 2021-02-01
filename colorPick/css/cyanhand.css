@@ -1,0 +1,128 @@
+body {
+    font-family: "微软雅黑";
+    background-image: url();
+    font-weight: normal;
+    font-style: normal;
+    font-size: middle;
+    width: 100%;
+}
+
+div {
+    text-align: left;
+    visibility: visible;
+}
+
+#top1 {
+    display: none;
+}
+
+#head1 {
+    width: 100%;
+}
+
+#navg1 {
+    display: none;
+}
+
+#main1 {
+    width: 100%;
+}
+
+#list1 {
+    display: none;
+}
+
+#listbd {
+    display: none;
+}
+
+#list2 {
+    display: none;
+}
+
+#main2 {
+    width: 90%;
+    margin: 0px;
+    padding: 10px 5px;
+}
+
+#mainhead1 {
+    display: none;
+}
+
+#left1,
+#left2 {
+    display: none;
+}
+
+#right1,
+#right2 {
+    display: none;
+}
+
+#title1 {
+    font-size: x-large;
+    text-align: left;
+    color: #000000;
+    font-weight: bold;
+    margin: 5px 0px;
+    padding: 5px 0px;
+}
+
+#content1 {
+    color: #000000;
+    font-weight: normal;
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+
+#foot1 {
+    display: none;
+}
+
+h1 {
+    font-size: xx-large;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-indent: 2em;
+}
+
+#head1 h3 {
+    font-size: large;
+    margin-top: 0px;
+    padding-top: 0px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+#head1 span {
+    width: 400px;
+    margin: 0px 5px;
+    padding: 0px 5px;
+    display: inline-block;
+}
+
+a:link {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.platform {
+    display: none;
+}
+
+
+/* CSS Document */
